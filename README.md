@@ -95,11 +95,11 @@ Technologies
 
 ## 🚀 Résultats clés
 
-  -Forte diversité géographique, malgré une domination américaine
-  -Les dramas, comédies et films d’action structurent le catalogue
-  -Des collaborations acteur–réalisateur récurrentes émergent
-  -Un budget élevé n’implique pas systématiquement un meilleur score
-  -Accélération notable de la production de séries dans le temps
+  ✔Forte diversité géographique, malgré une domination américaine
+  ✔Les dramas, comédies et films d’action structurent le catalogue
+  ✔Des collaborations acteur–réalisateur récurrentes émergent
+  ✔Un budget élevé n’implique pas systématiquement un meilleur score
+  ✔-Accélération notable de la production de séries dans le temps
 
 ## 💼 Ce que démontre ce projet
 
