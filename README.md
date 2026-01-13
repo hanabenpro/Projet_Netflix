@@ -43,7 +43,7 @@ imdb.csv → scores, budgets, revenus
 - Agrégations et calculs analytiques
 - Préparation orientée visualisation
 - Versioning du projet avec Git/GitHub
-- <img width="1124" height="622" alt="image" src="https://github.com/user-attachments/assets/0bb116b5-7675-407a-9c49-81e8bba89fef" />
+
 
 
 ## 3️⃣ Visualisation – Power BI
@@ -51,7 +51,7 @@ Création d’un dashboard multi-pages permettant :
   une lecture synthétique (KPI)
   une exploration détaillée
   une analyse dynamique via filtres et slicers
-
+ <img width="1124" height="622" alt="image" src="https://github.com/user-attachments/assets/0bb116b5-7675-407a-9c49-81e8bba89fef" />
 ## 📈 Contenu du dashboard
 Vue d’ensemble
   -Volume total de contenus
