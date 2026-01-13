@@ -37,7 +37,7 @@ imdb.csv → scores, budgets, revenus
 
 ### Stack : Python, Pandas, Matplotlib / Seaborn
 
-## 2️⃣ Modélisation & préparation BI
+##  Modélisation & préparation BI
 
 - Structuration des données (logique facts / dimensions)
 - Agrégations et calculs analytiques
@@ -46,7 +46,7 @@ imdb.csv → scores, budgets, revenus
 
 
 
-## 3️⃣ Visualisation – Power BI
+##  Visualisation – Power BI
 Création d’un dashboard multi-pages permettant :
   une lecture synthétique (KPI)
   une exploration détaillée
