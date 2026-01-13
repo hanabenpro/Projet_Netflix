@@ -1,7 +1,6 @@
 # 🎬 Netflix Catalogue Analytics
 
-Présentation rapide
-
+Présentation 
 Ce projet propose une analyse complète du catalogue Netflix, depuis l’exploration des données jusqu’à la visualisation interactive, dans une logique proche des standards BI en entreprise.
 
 L’objectif est de transformer des données brutes issues de Kaggle en insights exploitables, à travers :
